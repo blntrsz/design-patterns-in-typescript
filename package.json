@@ -1,0 +1,10 @@
+{
+  "name": "design-patterns-in-typescript",
+  "version": "1.0.0",
+  "repository": "git@github.com:blntrsz/design-patterns-in-typescript.git",
+  "author": "Balint Orosz <orosz.balint.97@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "typescript": "^4.5.5"
+  }
+}
